@@ -1,0 +1,48 @@
+body{
+    background-image:url(katako.jpg);
+    background-repeat:repeat
+    background-size: 100%;
+    
+}
+.header{
+    background-color: lightgreen;
+    border-radius: 80px;
+    font-size: 50px;
+    text-align:center;
+    width: 800px;
+    
+    margin: auto;
+    
+}
+
+.navigation {
+    font-family: initial;
+    color: white;
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+.body{
+  float: right;  
+}
+
+ul{
+    list-style: none;
+    font-size: 50px;
+    
+}
+ul li a{
+    margin-top:3px;
+    background-color: lightgreen;
+    border-radius: 150px;
+    text-decoration: none;
+}
+.imageleft{
+    float: left;
+
+}
+.footer{
+    color:white;
+text-transform: capitalize;
+font-family: cursive;
+}

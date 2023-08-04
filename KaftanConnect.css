@@ -1,0 +1,73 @@
+.header{
+    background-color:lightgrey;
+    border-radius: 80px;
+	font-size: 50px;
+	text-align: center;
+	width: 800;
+	margin: auto;
+}
+.body {
+    float: left;
+    width: 25%;
+    margin: 0;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 300px;
+    padding: 4px;
+    height: 400px;
+    background-color: rgb(133, 174, 175);
+    
+    
+}
+.body img {
+    height: 300px;
+    padding: 1px 1px 1px 1px;
+}
+
+.coby {
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.box {
+    background:rgb(221, 192, 137) ;
+    color: black;
+    
+}
+
+.box:hover {
+    background:rgb(255, 226, 191) ;
+}
+select {
+    background-color: rgb(221, 192, 137);
+    color: rgb(68, 45, 14);
+    font-size: 15px;
+    font-family: sans-serif;
+    position: relative;
+    bottom: 10px;
+
+   
+
+}
+
+select:hover {
+    background: rgb(255, 226, 191);
+}
+.footer{
+    color:black;
+text-transform: capitalize;
+font-family: cursive;
+}
+.navigation{
+text-align:center;
+}
+.navbar a{
+	display:inline;
+	padding: 0.5em;
+	margin:0.8%;
+	background: lightgrey;
+	border-radius: 10px;
+     
+}
